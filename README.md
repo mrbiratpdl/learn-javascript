@@ -1,5 +1,5 @@
 # learn-javascript
 javascript learning repository
-<script>
+<code><script>
   console.log('I wrote a sentence in console.');
-</script>
+</code></script>
